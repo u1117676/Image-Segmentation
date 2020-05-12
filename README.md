@@ -13,4 +13,4 @@ ImageNet dataset: http://www.image-net.org/
 Once you have this implemented, we can meet and discuss the step of moving to 3D.
 
 
-As I have no experiance with neural networks or with image segmentation, I started by downloading the pretrained VGG16 model to do some experimentation on how the whole idea works. I started with 5 images of vehicles.
+As I have no experiance with neural networks or with image segmentation, I started by downloading the pretrained VGG16 model to do some experimentation on how the whole idea works. I started with a dataset given by a tensorflow tutorial.
